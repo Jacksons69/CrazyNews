@@ -1,4 +1,4 @@
-# Reservator - Gestion de réservations pour un petit théâtre
+# CrazyNews - Toute l'info en un endroit
 ## Summary
 - [Presentation](#presentation)
 - [Technologies used](#technologies-used)
