@@ -1,0 +1,45 @@
+.btn-read {
+  background-color: #FFAE00;
+  color: #000;
+  font-size: 1.1em;
+  font-weight: bold;
+}
+
+.btn-read:hover {
+  background-color: #950000;
+  color: #fff;
+}
+
+.french-list-item {
+  width: 45%;
+  margin: 2em;
+  background-color: #fff;
+  color: #000;
+  box-shadow: 5px 5px 5px #000;
+  border: none;
+}
+
+.article-title {
+  color: #D50000;
+  font-family: 'Raleway';
+  font-weight: 800;
+}
+
+
+@media screen and (max-width: 1024px) {
+  .french-list-item {
+    width: 100%;
+    font-size: 1.3em;
+  }
+}
+
+@media screen and (max-width: 540px) {
+  .french-list-item {
+    width: 100%;
+    font-size: 1em;
+  }
+
+  .article-title {
+    font-size: 1.4em;
+  }
+}

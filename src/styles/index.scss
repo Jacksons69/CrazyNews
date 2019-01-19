@@ -1,0 +1,22 @@
+body {
+  background-color: #FEFBFB;
+}
+
+.french-list-articles {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  width: 80%;
+  text-align: center;
+  border-radius: 15px;
+  box-shadow: 25px 5px 50px #000;
+}
+
+
+@media screen and (max-width: 540px) {
+  .french-list-articles {
+    width: 100%;
+  }
+}
