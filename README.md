@@ -26,3 +26,4 @@ There you go! **Note that the site is fully responsive**, for example on Iphone 
 
 It’s an application made entirely with React. I used React Router for routing and Axios to make the queries to api. Bootstrap was used for fast formatting and responsive was made via the Media Queries in CSS.
 
+API used : https://newsapi.org/
